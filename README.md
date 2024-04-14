@@ -12,7 +12,7 @@ If you want to make a similar project here are the components and schematic to d
 - DS3231 RTC
 - MLX90614ESF-BAA IR Thermometer
 - ADA254 MicroSD Card Breakout
-- TPS61023 MinoBooster 5V@1A
+- TPS61023 MiniBooster 5V@1A
 - Adafruit Class 4 MicroSD cards (<= 128**MB**)
 
 ### Schematic
