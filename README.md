@@ -2,7 +2,15 @@
 This is an Arduino Nano project done for Nicholas Sakish. The goal was to create a device which measures the infrared temperature of an object from a distance and logs the temperature and time data every minute to a microSD card.
 
 ## Code
+
+### Source Code
 See the `src/` directory in this repository.
+
+### Dependencies
+- [Adafruit_BusIO](https://github.com/adafruit/Adafruit_BusIO)
+- [Adafruit_MLX90614](https://github.com/adafruit/Adafruit-MLX90614-Library)
+- [DS3231](https://github.com/NorthernWidget/DS3231)
+- [SD](https://github.com/arduino-libraries/SD)
 
 ## Hardware
 If you want to make a similar project here are the components and schematic to do so.
