@@ -16,4 +16,4 @@ If you want to make a similar project here are the components and schematic to d
 - Adafruit Class 4 MicroSD cards (<= 128**MB**)
 
 ### Schematic
-![Tarantula IR Project Schematic](https://github.com/LordUbuntu/tarantula-ir/blob/main/schematic.png)
+![Diagram](https://github.com/LordUbuntu/tarantula-ir/blob/main/diagram.png)
