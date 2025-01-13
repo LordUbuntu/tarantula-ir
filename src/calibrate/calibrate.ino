@@ -1,3 +1,6 @@
+// This program was written to calibrate the DS3231 RTC of the IR
+//  thermometer tracker to keep logs time accurate. Time has to be
+//  manually synced with target destination (in this case it was peru)
 #include <Wire.h>
 #include <DS3231.h>
 #include <Adafruit_MLX90614.h>
